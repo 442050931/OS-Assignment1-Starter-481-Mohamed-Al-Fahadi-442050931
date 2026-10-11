@@ -129,10 +129,10 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
-
-**Details**:
+### Entry 1 - [October 11, 2026 at 2pm]
+**What I did**: xxxxx
+ 
+**Details**: yyyy 
 
 **Challenges**:
 
