@@ -109,8 +109,8 @@
 
 ## Example Entry (do not copy it, write your own)
 
-### Entry 1 - [September 22, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
+### Entry 1 - [October 11, 2026, 3:30 PM]
+**What I did**: Forked the repository and set up my student 
 
 **Details**:
 - Created GitHub account with university email
